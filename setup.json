@@ -1,0 +1,18 @@
+{
+      "READ_THIS": "BOT_TOKEN must be edit at .env",
+      "prefix": "b!",
+      "host": "http://beergdps.7m.pl/database_gd",
+      "owner": "1034114515920494592",
+      "statusbot": "online",
+      "actionbot": "PLAYING",
+      "gdpsup": {
+            "READ_THIS": "change gdps, directory and turn if needed. turn is if you are using gdps song uploader use On",
+            "gdps": true,
+            "directory": "gdpsup",
+            "turn": "on"
+      },
+      "channel": {
+      "gdpsstatus": "1033754647862710322",
+      "ratestatus": "1033753885774459011"
+      }
+}
