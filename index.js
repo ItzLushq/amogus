@@ -99,4 +99,4 @@ client.on ('message', async msg => {
 	}
 	});
 	
-client.login(process.env.MTAzMzc1MDI3NjI4NjQ2ODA5OA.Gujr-i.QAxJMKla110c_rxWVgE9fElR53_Xcptr6ibPD4);
+client.login(MTAzMzc1MDI3NjI4NjQ2ODA5OA.Gujr-i.QAxJMKla110c_rxWVgE9fElR53_Xcptr6ibPD4.env.BOT_TOKEN);
